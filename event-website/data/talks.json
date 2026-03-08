@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["John Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the latest features and future of JavaScript."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Jane Smith"],
+    "category": ["Node.js", "API", "Web Development"],
+    "duration": 60,
+    "description": "Learn how to build robust and scalable APIs using Node.js and best practices."
+  },
+  {
+    "title": "CSS Grid and Flexbox: A Love Story",
+    "speakers": ["Emily White", "Chris Green"],
+    "category": ["CSS", "Web Design"],
+    "duration": 60,
+    "description": "Master the art of layout with CSS Grid and Flexbox."
+  },
+  {
+    "title": "State Management in React",
+    "speakers": ["Michael Brown"],
+    "category": ["React", "JavaScript"],
+    "duration": 60,
+    "description": "A comprehensive look at different state management solutions in React."
+  },
+  {
+    "title": "Web Performance Optimization",
+    "speakers": ["Sarah Black"],
+    "category": ["Web Performance", "Web Development"],
+    "duration": 60,
+    "description": "Tips and tricks to make your websites faster than ever."
+  },
+  {
+    "title": "The Rise of Serverless",
+    "speakers": ["David Blue"],
+    "category": ["Serverless", "Cloud"],
+    "duration": 60,
+    "description": "An introduction to serverless architecture and its benefits."
+  }
+]
